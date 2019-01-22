@@ -24,7 +24,7 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 
  4. **[Quarto MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/256772890/)**
       - *13 de dezembro de 2018 - 19h00-21h30*
-      - presentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/) e [Agnes Sofia Guimarães Cruz](https://medium.com/@agnessofiaz).
+      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/) e [Agnes Sofia Guimarães Cruz](https://medium.com/@agnessofiaz).
           * Dados Abertos com R - Primeiros Passos
           
      
