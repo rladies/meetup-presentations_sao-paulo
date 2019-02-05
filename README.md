@@ -27,6 +27,9 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/) e [Agnes Sofia Guimarães Cruz](https://medium.com/@agnessofiaz).
           * Dados Abertos com R - Primeiros Passos
           
-     
+ 5. **[Quinto MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/258556255/)**
+      - *02 de fevereiro de 2019 - 09h00-18h00*
+      - Apresentado por [Beatriz Milz](https://beatrizmilz.github.io/),Bruna Garbes, Maria Marinho e Nathália Demetrio.
+          * [Minicurso de Introdução ao R](https://maryms.github.io/2019-02-R-Basics-R-LadiesSP/#1)
 
      
