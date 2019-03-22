@@ -31,5 +31,17 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - *02 de fevereiro de 2019 - 09h00-18h00*
       - Apresentado por [Beatriz Milz](https://beatrizmilz.github.io/),Bruna Garbes, Maria Marinho e Nathália Demetrio.
           * [Minicurso de Introdução ao R](https://maryms.github.io/2019-02-R-Basics-R-LadiesSP/#1)
+          
+ 6. **[Sexto MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
+      - *23 de fevereiro de 2019 - 09h00-18h00*
+      - Apresentado por Haydee Svab, Bruna Garbes, Maria Marinho, Nathália Demetrio, Mariana Dias Guilardi e [Beatriz Milz](https://beatrizmilz.github.io/).
+          * [Oficina de R - Intermediário](https://beatrizmilz.github.io/2019-02-R-Interm-R-LadiesSP/#1)
+          
+  7. **[Sétimo MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
+      - *21 de março de 2019 - 19h00 - 21h30*
+      - Apresentado por  [Bruna Wundervald](http://brunaw.com/) e [Alissa Munerato](https://br.linkedin.com/in/alissa-munerato-1b0501103).
+          * [Extração de dados do Google Analytics e Purrr](http://brunaw.com/slides/rladies-sp/21-03-2019/meetup.html)
+                  
+          
 
      
