@@ -27,14 +27,18 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/) e [Agnes Sofia Guimarães Cruz](https://medium.com/@agnessofiaz).
           * Dados Abertos com R - Primeiros Passos
           
+ 5. **1º Datathon do R-Ladies São Paulo**
+      - *12 de janeiro de 2019 - 13h - 18h*
+        * [1º Datathon](http://brunaw.com/blog/rladies-datathon/relatorio.html)
+          
  5. **[Quinto MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/258556255/)**
       - *02 de fevereiro de 2019 - 09h00-18h00*
-      - Apresentado por [Beatriz Milz](https://beatrizmilz.github.io/),Bruna Garbes, Maria Marinho e Nathália Demetrio.
+      - Apresentado por [Beatriz Milz](https://beatrizmilz.github.io/), Bruna Garbes, Maria Marinho e [Nathália Demetrio](https://github.com/natydemi).
           * [Minicurso de Introdução ao R](https://maryms.github.io/2019-02-R-Basics-R-LadiesSP/#1)
           
  6. **[Sexto MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
       - *23 de fevereiro de 2019 - 09h00-18h00*
-      - Apresentado por Haydee Svab, Bruna Garbes, Maria Marinho, Nathália Demetrio, Mariana Dias Guilardi e [Beatriz Milz](https://beatrizmilz.github.io/).
+      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [Bruna Garbes](https://github.com/brunagarbes), [Maria Marinho](https://github.com/MaryMS), [Nathália Demetrio](https://github.com/natydemi), [Mariana Dias Guilardi](https://github.com/mariguilardi) e [Beatriz Milz](https://beatrizmilz.github.io/).
           * [Oficina de R - Intermediário](https://beatrizmilz.github.io/2019-02-R-Interm-R-LadiesSP/#1)
           
   7. **[Sétimo MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
