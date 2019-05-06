@@ -49,6 +49,6 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
   8. **[Oitavo MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
       - *27 de abril de 2019 - 13h30 - 18h30*
       - Apresentado por  [Renata Hirota](https://github.com/rmhirota) e [Cecilia do Lago](https://twitter.com/ceciliadolago).
-          * [Estatística Básica com Renata Hirota](https://rmhirota.github.io/coda-2018/)          
-          * [Jornalismo de Dados - reportagem com dados eleitorais com Cecilia do Lago](bit.ly/Rladies-SP-base-eleicao)          
+          * [Estatística Básica e Noções de Inferência com Renata Hirota](https://rmhirota.github.io/coda-2018/)          
+          * [Jornalismo de Dados - reportagem com dados eleitorais com Cecilia do Lago](http://bit.ly/Rladies-SP-base-eleicao)          
 
