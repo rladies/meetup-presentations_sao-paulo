@@ -46,6 +46,9 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - Apresentado por  [Bruna Wundervald](http://brunaw.com/) e [Alissa Munerato](https://br.linkedin.com/in/alissa-munerato-1b0501103).
           * [Extração de dados do Google Analytics e Purrr](http://brunaw.com/slides/rladies-sp/21-03-2019/meetup.html)
                   
-          
+  8. **[Oitavo MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
+      - *27 de abril de 2019 - 13h30 - 18h30*
+      - Apresentado por  [Renata Hirota](https://github.com/rmhirota) e [Cecilia do Lago](https://twitter.com/ceciliadolago).
+          * [Estatística Básica com Renata Hirota](https://rmhirota.github.io/coda-2018/)          
+          * [Jornalismo de Dados - reportagem com dados eleitorais com Cecilia do Lago](bit.ly/Rladies-SP-base-eleicao)          
 
-     
