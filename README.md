@@ -54,5 +54,5 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 
   9. **[Nono MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
       - *25 de maio de 2019 - 13h00 - 18h00*
-      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/),[Mariana Dias Guilardi](https://github.com/mariguilardi) e [Patricia Guisordi](https://beatrizmilz.github.io/).
+      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [Mariana Dias Guilardi](https://github.com/mariguilardi) e [Patricia Guisordi](https://www.linkedin.com/in/patricia-guisordi/).
           * [Oficina Fundamentos de R](https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/)          
