@@ -6,13 +6,13 @@ Fundado em Agosto de 2018
 R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 
 ## [Eventos passados](https://www.meetup.com/R-Ladies-Sao-Paulo/events/past/)
-  1. **[Primeiro MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/253525418/)**
+ 1. **[Primeiro MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/253525418/)**
       - *13 de agosto de 2018 - 19h30-21h30*
       - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [Bruna Wundervald](http://brunaw.com/) e [Alissa Munerato](https://br.linkedin.com/in/alissa-munerato-1b0501103).
           * [Apresentação R-Ladies](https://www.slideshare.net/haydeesvab/1-meetup-rladies-so-paulo)
           * [Tutorial R básico + dplyr](http://brunaw.com/talk/rladies-sp/)
             
-  2. **[Segundo MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/255381583/)**
+ 2. **[Segundo MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/255381583/)**
       - *15 de outubro de 2018 - 19h00-21h30*
       - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/) e [Ana Lucia Spinola](https://github.com/analuspi).
           * [Manipulação de Strings no R](https://analuspi.github.io/MeetUp-Strings)
@@ -52,3 +52,7 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
           * [Estatística Básica e Noções de Inferência com Renata Hirota](https://rmhirota.github.io/coda-2018/)          
           * [Jornalismo de Dados - reportagem com dados eleitorais com Cecilia do Lago](http://bit.ly/Rladies-SP-base-eleicao)          
 
+  9. **[Nono MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
+      - *25 de maio de 2019 - 13h00 - 18h00*
+      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/),[Mariana Dias Guilardi](https://github.com/mariguilardi) e [Patricia Guisordi](https://beatrizmilz.github.io/).
+          * [Oficina Fundamentos de R](https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/)          
