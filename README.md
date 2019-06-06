@@ -50,9 +50,14 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - *27 de abril de 2019 - 13h30 - 18h30*
       - Apresentado por  [Renata Hirota](https://github.com/rmhirota) e [Cecilia do Lago](https://twitter.com/ceciliadolago).
           * [Estatística Básica e Noções de Inferência com Renata Hirota](https://rmhirota.github.io/coda-2018/)          
-          * [Jornalismo de Dados - reportagem com dados eleitorais com Cecilia do Lago](http://bit.ly/Rladies-SP-base-eleicao)          
+          * [Jornalismo de Dados - reportagem com dados eleitorais com Cecilia do Lago](http://bit.ly/Rladies-SP-base-eleicao) 
+          
+  9. **[Mini Curso R-Ladies - IV SER UFF](https://www.meetup.com/rladies-niteroi/events/261225579/)**
+      - *20 de maio de 2019 - 18h00 - 20h00*
+      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/) e [Beatriz Milz](https://beatrizmilz.github.io/).
+          * [Comunicando seus resultados: Criando apresentações com R](https://beatrizmilz.github.io/IV-SER-RLadies/)
 
-  9. **[Nono MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
+  10. **[Nono MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
       - *25 de maio de 2019 - 13h00 - 18h00*
       - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [Mariana Dias Guilardi](https://github.com/mariguilardi) e [Patricia Guisordi](https://www.linkedin.com/in/patricia-guisordi/).
           * [Oficina Fundamentos de R](https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/)          
