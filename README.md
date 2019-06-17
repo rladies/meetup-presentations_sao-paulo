@@ -6,7 +6,7 @@ Fundado em Agosto de 2018
 R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 
 ## [Eventos passados](https://www.meetup.com/R-Ladies-Sao-Paulo/events/past/)
- 1. **[Primeiro MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/253525418/)**
+ 1. **[#1 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/253525418/)**
       - *13 de agosto de 2018 - 19h30-21h30*
       - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [Bruna Wundervald](http://brunaw.com/) e [Alissa Munerato](https://br.linkedin.com/in/alissa-munerato-1b0501103).
           * [Apresentação R-Ladies](https://www.slideshare.net/haydeesvab/1-meetup-rladies-so-paulo)
