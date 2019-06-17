@@ -64,5 +64,5 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
           
   11. **[#10 MeetUp do R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/events/262226894/)**
       - *15 de junho de 2019 - 13h30 - 18h00*
-      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/),  [Bruna Garbes](https://github.com/brunagarbes) E [Nathália Demetrio](https://github.com/natydemi), .
+      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/),  [Bruna Garbes](https://github.com/brunagarbes) e [Nathália Demetrio](https://github.com/natydemi), .
           * [Cases de DataViz com R](https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/)    
