@@ -8,7 +8,8 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 ## [Eventos passados](https://www.meetup.com/R-Ladies-Sao-Paulo/events/past/)
  1. **[#1 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/253525418/)**
       - *13 de agosto de 2018 - 19h30-21h30*
-      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [Bruna Wundervald](http://brunaw.com/) e [Alissa Munerato](https://br.linkedin.com/in/alissa-munerato-1b0501103).
+      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [
+      Wundervald](http://brunaw.com/) e [Alissa Munerato](https://br.linkedin.com/in/alissa-munerato-1b0501103).
           * [Apresentação R-Ladies](https://www.slideshare.net/haydeesvab/1-meetup-rladies-so-paulo)
           * [Tutorial R básico + dplyr](http://brunaw.com/talk/rladies-sp/)
             
@@ -65,4 +66,9 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
   11. **[#10 MeetUp do R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/events/262226894/)**
       - *15 de junho de 2019 - 13h30 - 18h00*
       - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/),  [Bruna Garbes](https://github.com/brunagarbes) e [Nathália Demetrio](https://github.com/natydemi), .
-          * [Cases de DataViz com R](https://github.com/hsvab/R-codes/tree/master/Exemplos-data-viz)    
+          * [Cases de DataViz com R](https://github.com/hsvab/R-codes/tree/master/Exemplos-data-viz) 
+          
+  12. **Lightning Talk - Open science, Education & Community - [useR!2019](https://user2019.r-project.org/)**
+       - *11 de julho de 2019 - Toulouse, França*
+       - Apresentado por [Beatriz Milz](https://beatrizmilz.com) e co-autoria com [Bruna Wundervald](http://brunaw.com/)
+         * [The evolution and importance of the R-Ladies São Paulo chapter in Brazil](https://beatrizmilz.github.io/useR2019/)
