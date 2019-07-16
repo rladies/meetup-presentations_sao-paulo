@@ -20,7 +20,7 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
           
  3. **[#3 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/256359261/)**
       - *21 de novembro de 2018 - 19h00-21h30*
-      - Apresentado por [Beatriz Milz](https://beatrizmilz.github.io/).
+      - Apresentado por [Beatriz Milz](https://beatrizmilz.com).
           * [Comunicando seus resultados: criando apresentações com R](https://beatrizmilz.github.io/apresentacao_RLadies_xaringan/)
 
  4. **[#4 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/256772890/)**
@@ -34,12 +34,12 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
           
  5. **[#5 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/258556255/)**
       - *02 de fevereiro de 2019 - 09h00-18h00*
-      - Apresentado por [Beatriz Milz](https://beatrizmilz.github.io/), [Bruna Garbes](https://github.com/brunagarbes), [Maria Marinho](https://github.com/MaryMS), e [Nathália Demetrio](https://github.com/natydemi).
+      - Apresentado por [Beatriz Milz](https://beatrizmilz.com), [Bruna Garbes](https://github.com/brunagarbes), [Maria Marinho](https://github.com/MaryMS), e [Nathália Demetrio](https://github.com/natydemi).
           * [Minicurso de Introdução ao R](https://maryms.github.io/2019-02-R-Basics-R-LadiesSP/#1)
           
  6. **[#6 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
       - *23 de fevereiro de 2019 - 09h00-18h00*
-      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [Bruna Garbes](https://github.com/brunagarbes), [Maria Marinho](https://github.com/MaryMS), [Nathália Demetrio](https://github.com/natydemi), [Mariana Dias Guilardi](https://github.com/mariguilardi) e [Beatriz Milz](https://beatrizmilz.github.io/).
+      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [Bruna Garbes](https://github.com/brunagarbes), [Maria Marinho](https://github.com/MaryMS), [Nathália Demetrio](https://github.com/natydemi), [Mariana Dias Guilardi](https://github.com/mariguilardi) e [Beatriz Milz](https://beatrizmilz.com).
           * [Oficina de R - Intermediário](https://beatrizmilz.github.io/2019-02-R-Interm-R-LadiesSP/#1)
           
   7. **[#7 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
@@ -55,7 +55,7 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
           
   9. **[Mini Curso R-Ladies - IV SER UFF](https://www.meetup.com/rladies-niteroi/events/261225579/)**
       - *20 de maio de 2019 - 18h00 - 20h00*
-      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/) e [Beatriz Milz](https://beatrizmilz.github.io/).
+      - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/) e [Beatriz Milz](https://beatrizmilz.com).
           * [Comunicando seus resultados: Criando apresentações com R](https://beatrizmilz.github.io/IV-SER-RLadies/)
 
   10. **[#9 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/)**
