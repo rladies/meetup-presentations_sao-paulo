@@ -5,6 +5,11 @@ Fundado em Agosto de 2018
 
 R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 
+## Redes sociais
+- [Twitter](https://twitter.com/RLadiesSaoPaulo)
+- [Instagram](http://instagram.com/RLadiesSaoPaulo)
+- [Facebook](http://facebook.com/RLadiesSaoPaulo)
+
 ## [Eventos passados](https://www.meetup.com/R-Ladies-Sao-Paulo/events/past/)
  1. **[#1 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/253525418/)**
       - *13 de agosto de 2018 - 19h30-21h30*
