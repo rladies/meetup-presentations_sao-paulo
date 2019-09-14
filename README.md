@@ -78,6 +78,7 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
           * [Aniversário de 1 ano - R-Ladies São Paulo](https://beatrizmilz.github.io/R-Ladies_1ano/) 
   14. **[#12 MeetUp do R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/events/264535075/)**
       - *12 de setembro de 2019 - 19h00 - 21h30*
-      - Apresentado por [Ana Bastos](https://anabastos.me/) e  [Beatriz Milz](https://beatrizmilz.com).
+      - Apresentado por [Nathália Demetrio](https://github.com/natydemi), [Ana Bastos](https://anabastos.me/) e  [Beatriz Milz](https://beatrizmilz.com).
+          * [Introdução - 12o Meetup R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2019-09-12_RLadies-12-Introducao-RLadiesSP.pdf)      
           * [Aprendendo Git e GitHub](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2019-09-12-RLadies-12-Git-Github-Ana-Bastos.pdf)
           * [Primeiros passos utilizando o Git e GitHub no RStudio](https://beatrizmilz.github.io/RLadies-Git-RStudio-2019/)         
