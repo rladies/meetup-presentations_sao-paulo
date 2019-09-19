@@ -86,4 +86,11 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - Apresentado por [Nathália Demetrio](https://github.com/natydemi), [Ana Bastos](https://anabastos.me/) e  [Beatriz Milz](https://beatrizmilz.com).
           * [Introdução - 12o Meetup R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2019-09-12_RLadies-12-Introducao-RLadiesSP.pdf)      
           * [Aprendendo Git e GitHub](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2019-09-12-RLadies-12-Git-Github-Ana-Bastos.pdf)
-          * [Primeiros passos utilizando o Git e GitHub no RStudio](https://beatrizmilz.github.io/RLadies-Git-RStudio-2019/)         
+          * [Primeiros passos utilizando o Git e GitHub no RStudio](https://beatrizmilz.github.io/RLadies-Git-RStudio-2019/)     
+  14. **[14ª aMostra Estatística IME/USP](https://www.ime.usp.br/~amostra/)**
+      - *17 de setembro de 2019 - 16h30 - 19h00*
+          * [Workshop - Apresentações no R ⚔ com xaringan](https://beatrizmilz.github.io/aMostra-IME-2019-Xaringan/) 
+          - Apresentado por [Beatriz Milz](https://beatrizmilz.com) e [Mariana Dias Guilardi](https://github.com/mariguilardi).
+      - *19 de setembro de 2019 - 16h30 - 19h00*
+          * [Workshop - Visualização de Dados com o R](https://beatrizmilz.github.io/aMostra-IME-2019-DataVis/)   
+          - Apresentado por [Nathália Demetrio](https://github.com/natydemi) e [Geovana Lopes](https://www.linkedin.com/in/geovanalopes/), monitoras: [Bruna Garbes](https://github.com/brunagarbes) e [Beatriz Milz](https://beatrizmilz.com).        
