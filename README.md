@@ -94,3 +94,8 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - *19 de setembro de 2019 - 16h30 - 19h00*
           * [Workshop - Visualização de Dados com o R](https://beatrizmilz.github.io/aMostra-IME-2019-DataVis/)   
           - Apresentado por [Nathália Demetrio](https://github.com/natydemi) e [Geovana Lopes](https://www.linkedin.com/in/geovanalopes/), monitoras: [Bruna Garbes](https://github.com/brunagarbes) e [Beatriz Milz](https://beatrizmilz.com).        
+  15. **[#13 MeetUp do R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/events/265640044/)**
+      - *16 de outubro de 2019 - 19h00 - 21h30*
+      - Apresentado por [Nathália Demetrio](https://github.com/natydemi) e  [Gabriel Teotonio](https://www.linkedin.com/in/gabrielteotonio/).
+          * [Introdução - 13o Meetup R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2019-10-16-13-meetup-RLadies-SP.pdf)      
+          * [Desenvolvimento de aplicações web com R Shiny: como escalar produtos de dados de forma rápida e confiável. ](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019REC/datascience/WZB-1895_2019-10-10T025252_Shiny-TDC.pdf)
