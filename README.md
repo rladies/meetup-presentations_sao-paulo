@@ -11,6 +11,9 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 - [Facebook](http://facebook.com/RLadiesSaoPaulo)
 
 ## [Eventos passados](https://www.meetup.com/R-Ladies-Sao-Paulo/events/past/)
+- [2018](#2018)
+- [2019](#2019)
+- [2020](#2020)
 
 ### 2018
  1. **[#1 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/253525418/)**
