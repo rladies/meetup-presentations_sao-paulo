@@ -117,6 +117,6 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
  ### 2020
 
   18. **[#16 MeetUp do R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/events/268379493/)**
-      - *16 de outubro de 2019 - 08h00 - 17h30*
+      - *16 de fevereiro de 2020 - 08h00 - 17h30*
       - Apresentado por Ana Carolina Moreno (R-Ladies SP), Ana Ciconelle (R-Ladies SP), Bea Milz (R-Ladies SP), Bruna Garbes (R-Ladies SP), Denise Vitoriano (R-Ladies SP), Geovana Lopes (R-Ladies SP), Haydée Svab (R-Ladies SP), Hedibert Lopes (professor do Insper), Ianní Multiterno (R-Ladies SP), Jean Prado (R-Ladies SP), Juliana Clemente (R-Ladies SP), Maria Marinho (R-Ladies SP), Mariana Guilardi (R-Ladies SP), Marina Merlo (R-Ladies SP), Milene Farhat (R-Ladies SP), Regina Albanese (R-Ladies SP), Renata Hirota (R-Ladies SP).
           * [Curso Básico de R](http://bit.ly/2020-2-rladies)      
