@@ -11,6 +11,8 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 - [Facebook](http://facebook.com/RLadiesSaoPaulo)
 
 ## [Eventos passados](https://www.meetup.com/R-Ladies-Sao-Paulo/events/past/)
+
+### 2018
  1. **[#1 MeetUp do R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/253525418/)**
       - *13 de agosto de 2018 - 19h30-21h30*
       - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/), [Bruna Wundervald](http://brunaw.com/) e [Alissa Munerato](https://br.linkedin.com/in/alissa-munerato-1b0501103).
@@ -31,7 +33,10 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - *13 de dezembro de 2018 - 19h00-21h30*
       - Apresentado por [Haydée Svab](https://www.linkedin.com/in/hsvab/) e [Agnes Sofia Guimarães Cruz](https://medium.com/@agnessofiaz).
           * Dados Abertos com R - Primeiros Passos
-          
+ 
+ 
+### 2019
+
  5. **1º Datathon do R-Ladies São Paulo**
       - *12 de janeiro de 2019 - 13h - 18h*
         * [1º Datathon](http://brunaw.com/blog/rladies-datathon/relatorio.html)
@@ -94,8 +99,24 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - *19 de setembro de 2019 - 16h30 - 19h00*
           * [Workshop - Visualização de Dados com o R](https://beatrizmilz.github.io/aMostra-IME-2019-DataVis/)   
           - Apresentado por [Nathália Demetrio](https://github.com/natydemi) e [Geovana Lopes](https://www.linkedin.com/in/geovanalopes/), monitoras: [Bruna Garbes](https://github.com/brunagarbes) e [Beatriz Milz](https://beatrizmilz.com).        
+          
   15. **[#13 MeetUp do R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/events/265640044/)**
       - *16 de outubro de 2019 - 19h00 - 21h30*
       - Apresentado por [Nathália Demetrio](https://github.com/natydemi) e  [Gabriel Teotonio](https://www.linkedin.com/in/gabrielteotonio/).
           * [Introdução - 13o Meetup R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2019-10-16-13-meetup-RLadies-SP.pdf)      
           * [Desenvolvimento de aplicações web com R Shiny: como escalar produtos de dados de forma rápida e confiável. ](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019REC/datascience/WZB-1895_2019-10-10T025252_Shiny-TDC.pdf)
+
+  16. **[#14 MeetUp do R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/events/265925621/)**
+      - *31 de outubro de 2019 - 19h00 - 21h30*
+      - Apresentado por Ana Paula Appel e Thiago Pires.
+      
+  17. **[#15 MeetUp do R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/events/266137936/)**
+      - *09 de novembro de 2019 -  09h30 - 12h00*
+      - Apresentado por Ana Carolina Moreno, Marina Merlo e Pedro Burgos.
+       
+ ### 2020
+
+  18. **[#16 MeetUp do R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/events/268379493/)**
+      - *16 de outubro de 2019 - 08h00 - 17h30*
+      - Apresentado por Ana Carolina Moreno (R-Ladies SP), Ana Ciconelle (R-Ladies SP), Bea Milz (R-Ladies SP), Bruna Garbes (R-Ladies SP), Denise Vitoriano (R-Ladies SP), Geovana Lopes (R-Ladies SP), Haydée Svab (R-Ladies SP), Hedibert Lopes (professor do Insper), Ianní Multiterno (R-Ladies SP), Jean Prado (R-Ladies SP), Juliana Clemente (R-Ladies SP), Maria Marinho (R-Ladies SP), Mariana Guilardi (R-Ladies SP), Marina Merlo (R-Ladies SP), Milene Farhat (R-Ladies SP), Regina Albanese (R-Ladies SP), Renata Hirota (R-Ladies SP).
+          * [Curso Básico de R](http://bit.ly/2020-2-rladies)      
