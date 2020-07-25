@@ -9,6 +9,7 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 - [Twitter](https://twitter.com/RLadiesSaoPaulo)
 - [Instagram](http://instagram.com/RLadiesSaoPaulo)
 - [Facebook](http://facebook.com/RLadiesSaoPaulo)
+- [Youtube](https://bit.ly/rladiesp-youtube)
 
 ## [Eventos passados](https://www.meetup.com/R-Ladies-Sao-Paulo/events/past/)
 - [2018](#2018)
