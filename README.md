@@ -150,3 +150,9 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - [Vídeo no Youtube](https://youtu.be/T_GWrFYMMOk)
       - Hosts:  Ianní Muliterno (R-Ladies SP), Nathália Demétrio (R-Ladies SP), Haydee Svab (R-Ladies SP), Beatriz Milz (R-Ladies SP).
       - Palestrante: [Sabrina Vasconcellos](https://www.linkedin.com/in/sabrina-vasconcellos/?locale=pt_BR) (Adicionar link para os slides!)
+
+  23. **[MeetUp Online - Visualização Interativa de Dados – uma aplicação usando Shiny](https://www.meetup.com/rladies-sao-paulo/events/274890852/)**
+      - *05 de dezembro de 2020 - 10h00 - 11h30*
+      - [Vídeo no Youtube](https://www.youtube.com/watch?v=tk0nUD2Qdd4)
+      - Hosts:  Ianní Muliterno (R-Ladies SP), Haydee Svab (R-Ladies SP), Fernanda Fortti (R-Ladies SP), Letícia Thomaz (R-Ladies SP)
+      - Palestrante: Marina Muradian (Adicionar link para os slides!)
