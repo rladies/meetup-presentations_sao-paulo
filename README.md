@@ -139,4 +139,8 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
         - [Ana Carolina Moreno](https://www.linkedin.com/in/anacarolinamoreno/) (jornalista/R-Ladies) - [Slides: As várias pandemias](https://r-ladies-sao-paulo.github.io/2020-R-LadiesSP-2Anos/AnaCarolinaMoreno_dados_pandemia.pdf)
         - [Anicely Santos](https://www.linkedin.com/in/anicelysantos/) (InspirAda na Computação/Afropython) - [Slides:  Cara gente branca](https://docs.google.com/presentation/d/1F9goYOCrtsawyqJoeRcW8Y17g1FkrqaAN-Kjp5QXzA4/edit)
         - [Natalia Souza](https://www.linkedin.com/in/nataliacasouza/) (IME-USP/Google) - [Slides: Lutando contra a síndrome do impostor](https://docs.google.com/presentation/d/1LWOlRugoJ2UqW_onPorWMk-04SUmWNnaZpLvi8FzCxI/edit#slide=id.g55d2cabac8_1_10)
-          
+        
+  21. **[18º Meetup R-Ladies SP: Análise do censo com convidadas (online)](https://www.meetup.com/rladies-sao-paulo/events/273867359/)**
+      - *05 de setembro de 2020 - 18h30 - 21h00*
+      - [Material completo](https://r-ladies-sao-paulo.github.io/2020-hacktoberfest/)
+      - Palestrantes: Beatriz Milz (R-Ladies SP), Jean Prado (R-Ladies SP), Haydee Svab (R-Ladies SP), Angélica Custódio (R-Ladies SP), Bruna Garbes (R-Ladies SP).
