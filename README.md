@@ -144,3 +144,9 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - *17 de outubro de 2020 - 10h00 - 16h00*
       - [Material completo](https://r-ladies-sao-paulo.github.io/2020-hacktoberfest/)
       - Palestrantes: Beatriz Milz (R-Ladies SP), Jean Prado (R-Ladies SP), Haydee Svab (R-Ladies SP), Angélica Custódio (R-Ladies SP), Bruna Garbes (R-Ladies SP).
+      
+  22. **[MeetUp Online - People Analytics a Ciência de dados no RH](https://www.meetup.com/rladies-sao-paulo/events/274649434/)**
+      - *22 de novembro de 2020 - 16h00 - 18h00*
+      - [Vídeo no Youtube](https://youtu.be/T_GWrFYMMOk)
+      - Hosts:  Ianní Muliterno (R-Ladies SP), Nathália Demétrio (R-Ladies SP), Haydee Svab (R-Ladies SP), Beatriz Milz (R-Ladies SP).
+      - Palestrante: [Sabrina Vasconcellos](https://www.linkedin.com/in/sabrina-vasconcellos/?locale=pt_BR) (Adicionar link para os slides!)
