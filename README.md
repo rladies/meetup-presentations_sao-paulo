@@ -131,4 +131,12 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
           * [Do SQL para o R com o pacote dplyr](https://bit.ly/rladiessaopaulo-sql-r)   
           * [SQL - Primeiros passos](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2020-05-16_RLadies-SQL_Adriana_Leticia_dos_Reis.pdf)
           
+  20. **[18º Meetup R-Ladies SP: Análise do censo com convidadas (online)](https://www.meetup.com/rladies-sao-paulo/events/272931538/)**
+      - *05 de setembro de 2020 - 18h30 - 21h00*
+      - [Vídeo no Youtube](https://youtu.be/YGwhKGIl8yo)
+      - Hosts: Beatriz Milz (R-Ladies SP), Jean Prado (R-Ladies SP), Nathália Demétrio (R-Ladies SP).
+      - Palestrantes:
+        - [Ana Carolina Moreno](https://www.linkedin.com/in/anacarolinamoreno/) (jornalista/R-Ladies) - [Slides: As várias pandemias](https://r-ladies-sao-paulo.github.io/2020-R-LadiesSP-2Anos/AnaCarolinaMoreno_dados_pandemia.pdf)
+        - [Anicely Santos](https://www.linkedin.com/in/anicelysantos/) (InspirAda na Computação/Afropython) - [Slides:  Cara gente branca](https://docs.google.com/presentation/d/1F9goYOCrtsawyqJoeRcW8Y17g1FkrqaAN-Kjp5QXzA4/edit)
+        - [Natalia Souza](https://www.linkedin.com/in/nataliacasouza/) (IME-USP/Google) - [Slides: Lutando contra a síndrome do impostor](https://docs.google.com/presentation/d/1LWOlRugoJ2UqW_onPorWMk-04SUmWNnaZpLvi8FzCxI/edit#slide=id.g55d2cabac8_1_10)
           
