@@ -171,12 +171,21 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - *24 de março de 2021*
       - [Vídeo no Youtube](https://youtu.be/EtV3_3aN884)
       - Hosts:  Beatriz Milz, Milene Farhat
-      - Palestrante: Fernanda Peres (Adicionar link para os slides!)
+      - Palestrante: Fernanda Peres ([Slides](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2021-03-24-Meetup-Fernanda-Peres.pdf))
 
-  26. **[MeetUp Online - Como escolher o teste estatístico adequado?](https://www.meetup.com/rladies-sao-paulo/events/276955749/)**
-      - *24 de março de 2021*
+  26. **[MeetUp Online - Tidymodels: Estruturando o processo de Machine Learning](https://www.meetup.com/rladies-sao-paulo/events/277850175/)**
+      - *8 de maio de 2021*
       - [Vídeo no Youtube](https://youtu.be/EtV3_3aN884)
-      - Hosts:  Beatriz Milz, Milene Farhat
-      - Palestrante: Fernanda Peres 
-      - Material: https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2021-03-24-Meetup-Fernanda-Peres.pdf
+      - Hosts:  Milene Farhat
+      - Palestrante: Bruna Wundervald ([slides](http://brunaw.com/tidymodels-webinar/esquenta/slides.html#1)), Viviane Sanchez ([Dashboard](https://sanchezvivi.shinyapps.io/tidymodels-shiny/) e [código](https://github.com/sanchezvivi/r-ladies-tidymodels))
 
+  27. **[MeetUp Online - Conhecendo o ggplot2: criando gráficos com R](https://www.meetup.com/rladies-sao-paulo/events/278997220/)**
+      - *26 de junho de 2021*
+      - [Vídeo no Youtube](https://youtu.be/lkX9ms1eX10)
+      - Hosts:  Haydee Svab e Fernanda Peres
+      - Palestrante: Letícia Thomaz ([slides](https://lodthomaz.github.io/ggplot2_RLadiesSP/#1))
+
+
+### 2022 
+
+Em breve!
