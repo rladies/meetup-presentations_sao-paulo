@@ -1,5 +1,3 @@
-<img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
-
 # Arquivos do R-Ladies São Paulo
 Fundado em Agosto de 2018
 
@@ -15,6 +13,8 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020)
+- [2021](#2021)
+- [2022](#2022)
 
 ### 2018
  1. **[#1 MeetUp da R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/events/253525418/)**
@@ -158,9 +158,25 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - Hosts:  Ianní Muliterno (R-Ladies SP), Haydee Svab (R-Ladies SP), Fernanda Fortti (R-Ladies SP), Letícia Thomaz (R-Ladies SP)
       - Palestrante: Marina Muradian (Adicionar link para os slides!)
 
+### 2021
 
   24. **MeetUp Online - R-Ladies comentam a RStudio Conf 2021**
       - *20 e 23 de janeiro de 2021*
       - [Vídeo no Youtube - Parte 1](https://youtu.be/IPUMhvf0IGk)
       - [Vídeo no Youtube - Parte 2](https://youtu.be/YSVzZi7u3vw)
       - Hosts: Renata Hirota, Alissa Munerato, Haydee Svab, Beatriz Milz, Nathália Demétrio, Angélica Custódio
+
+
+  25. **[MeetUp Online - Como escolher o teste estatístico adequado?](https://www.meetup.com/rladies-sao-paulo/events/276955749/)**
+      - *24 de março de 2021*
+      - [Vídeo no Youtube](https://youtu.be/EtV3_3aN884)
+      - Hosts:  Beatriz Milz, Milene Farhat
+      - Palestrante: Fernanda Peres (Adicionar link para os slides!)
+
+  26. **[MeetUp Online - Como escolher o teste estatístico adequado?](https://www.meetup.com/rladies-sao-paulo/events/276955749/)**
+      - *24 de março de 2021*
+      - [Vídeo no Youtube](https://youtu.be/EtV3_3aN884)
+      - Hosts:  Beatriz Milz, Milene Farhat
+      - Palestrante: Fernanda Peres 
+      - Material: https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2021-03-24-Meetup-Fernanda-Peres.pdf
+
