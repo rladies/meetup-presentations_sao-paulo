@@ -143,6 +143,7 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
   21. **[Contribuindo via GitHub no RStudio - RLadies SP na Hacktoberfest](https://www.meetup.com/rladies-sao-paulo/events/273867359/)**
       - *17 de outubro de 2020 - 10h00 - 16h00*
       - [Material completo](https://r-ladies-sao-paulo.github.io/2020-hacktoberfest/)
+      - [Vídeo no Youtube](https://www.youtube.com/watch?v=lLhgKG0dkzY&list=PLufjVrrUAoSdny-WECY4Gr2pn5OQGG_FN)
       - Palestrantes: Beatriz Milz (R-Ladies SP), Jean Prado (R-Ladies SP), Haydee Svab (R-Ladies SP), Angélica Custódio (R-Ladies SP), Bruna Garbes (R-Ladies SP).
       
   22. **[MeetUp Online - People Analytics a Ciência de dados no RH](https://www.meetup.com/rladies-sao-paulo/events/274649434/)**
@@ -156,3 +157,10 @@ R-Ladies São Paulo MeetUp https://www.meetup.com/R-Ladies-Sao-Paulo
       - [Vídeo no Youtube](https://www.youtube.com/watch?v=tk0nUD2Qdd4)
       - Hosts:  Ianní Muliterno (R-Ladies SP), Haydee Svab (R-Ladies SP), Fernanda Fortti (R-Ladies SP), Letícia Thomaz (R-Ladies SP)
       - Palestrante: Marina Muradian (Adicionar link para os slides!)
+
+
+  24. **MeetUp Online - R-Ladies comentam a RStudio Conf 2021**
+      - *20 e 23 de janeiro de 2021*
+      - [Vídeo no Youtube - Parte 1](https://youtu.be/IPUMhvf0IGk)
+      - [Vídeo no Youtube - Parte 2](https://youtu.be/YSVzZi7u3vw)
+      - Hosts: Renata Hirota, Alissa Munerato, Haydee Svab, Beatriz Milz, Nathália Demétrio, Angélica Custódio
